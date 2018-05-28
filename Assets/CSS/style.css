@@ -1,0 +1,36 @@
+body {background-color: #ffffff;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    margin-left: 200px;
+    
+}
+
+h1 {
+    background-color:   #4aaaa5;font-family: 'Georgia', Times, Times New Roman, serif;
+    border: #cccccc; 
+
+}
+h2 {color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    clear: both;
+}
+
+#nav {float: right;}
+
+img {float: left;
+
+}
+
+
+
+footer {
+    clear: both;
+    background-color: #666666;
+    text-align: center;
+    color: #ffffff
+    
+}
+
+
+img {float: left;}
